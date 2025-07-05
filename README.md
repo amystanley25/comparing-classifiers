@@ -49,7 +49,7 @@ A dummy classifier that predicts the majority class ("no") was used to establish
 | Metric              | Why It Matters                                       |
 |---------------------|------------------------------------------------------|
 | Accuracy            | Quick snapshot but misleading with imbalance         |
-| Precision & Recall  | More balanced view—especially recall for this case   |
+| Precision & Recall  | More balanced view, especially recall for this case   |
 | F1 Score            | Harmonic mean of precision and recall                |
 | ROC-AUC             | Assesses model's ability to discriminate classes     |
 
