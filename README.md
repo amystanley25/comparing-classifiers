@@ -7,7 +7,7 @@ This project uses data from a Portuguese banking institution to build and evalua
 
 ## Objective
 
-The **business goal** is to predict which clients are most likely to subscribe to a term deposit so that marketing efforts can be focused more effectively—saving time, costs, and improving customer targeting.
+The **business goal** is to predict which clients are most likely to subscribe to a term deposit so that marketing efforts can be focused more effectively saving time, costs, and improving customer targeting.
 
 ---
 
